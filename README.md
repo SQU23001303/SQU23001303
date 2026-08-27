@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ben</h1>
-<h3 align="center">I currently study computing at University and working part time for a small delivery company</h3>
+<h3 align="center">Just graduated a BSc (hons) at University Centre Somerset in Computing and Digital Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squ23001303&label=Profile%20views&color=0e75b6&style=flat" alt="squ23001303" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end website (HTML, CSS, JavaScript), C# (console and OOP applications), Python, Networking and Cyber Security Module and Database Development**
 
-- 👯 I have worked on a front-end website [Glowing Grates](https://github.com/SQU23001303/Website-Assignment)
+- 👯 I have worked on two live published websites https://www.galmington-netball.co.uk/ and https://www.delivery-direct.co.uk/
 
 - 👨‍💻 All of my projects are available at [https://github.com/SQU23001303](https://github.com/SQU23001303)
 
